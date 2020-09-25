@@ -2,6 +2,8 @@
 
 An abstraction over storage providers
 
+![Node.js CI](https://github.com/heply/fastify-storage/workflows/Node.js%20CI/badge.svg)
+
 ## Install
 
 ```bash
