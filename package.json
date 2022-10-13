@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heply/fastify-storage.git"
+    "url": "git+https://github.com/beliven-it/fastify-storage.git"
   },
   "keywords": [
     "fastify",
@@ -20,12 +20,12 @@
     "gcloud",
     "filesystem"
   ],
-  "author": "Heply s.r.l.",
+  "author": "Beliven",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/heply/fastify-storage/issues"
+    "url": "https://github.com/beliven-it/fastify-storage/issues"
   },
-  "homepage": "https://github.com/heply/fastify-storage#readme",
+  "homepage": "https://github.com/beliven-it/fastify-storage#readme",
   "devDependencies": {
     "eslint": "^7.7.0",
     "eslint-config-standard": "^14.1.1",
